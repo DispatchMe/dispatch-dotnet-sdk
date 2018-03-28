@@ -159,3 +159,5 @@ ASALocalRun/
 # NVidia Nsight GPU debugger configuration file
 *.nvuser
 .DS_Store
+bin/
+obj/
