@@ -1,0 +1,8 @@
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/bin/Debug/netstandard2.0/dispatch-dotnet-sdk.deps.json
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/bin/Debug/netstandard2.0/dispatch-dotnet-sdk.dll
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/bin/Debug/netstandard2.0/dispatch-dotnet-sdk.pdb
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/obj/Debug/netstandard2.0/dispatch-dotnet-sdk.csproj.CoreCompileInputs.cache
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/obj/Debug/netstandard2.0/dispatch-dotnet-sdk.AssemblyInfoInputs.cache
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/obj/Debug/netstandard2.0/dispatch-dotnet-sdk.AssemblyInfo.cs
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/obj/Debug/netstandard2.0/dispatch-dotnet-sdk.dll
+/Users/johnzablocki/Dev/dispatch-net-sdk/src/dispatch-dotnet-sdk/obj/Debug/netstandard2.0/dispatch-dotnet-sdk.pdb
